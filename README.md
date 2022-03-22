@@ -1,2 +1,2 @@
 # Personal-Assistant
-Voice Operated Personal Assistant
+The program takes voice input from the user using python, then store it into a file temporarily and runs the respective function based upon the keywords from the input. Then accordingly compiles and run a c++ file which completes the required request. The search for something unique led us there. Originally it was supposed to be a part of an interface with multiple desktop customization options and we are looking forward to implement the same.
